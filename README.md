@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fiiillliiippp
 - 👀 I’m interested in HTML, CSS (TAILWIND) AND JAVASRCIPT (JQUERY)
 - 🌱 I’m currently learning JAVASCRIPT
-- 💞️ I’m looking for a **JUNIOR** job for frontend developer
+- 💞️ I’m looking for a **JUNIOR** job as a frontend developer
 - 📫 You can send me an email (filipbrady@gmail.com)
 
 <!---
